@@ -4,9 +4,7 @@
   "description": "Estudo de programação com Filipe Deschamps.",
   "main": "index.js",
   "scripts": {
-    "start": "next start",
-    "dev": "next dev",
-    "build": "next build"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
